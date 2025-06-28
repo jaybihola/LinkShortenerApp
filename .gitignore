@@ -137,3 +137,21 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Express.js specific
+.DS_Store
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+.project
+.directory
+*.swp
+*.swo
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+uploads/
+tmp/
+temp/
